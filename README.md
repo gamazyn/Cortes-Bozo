@@ -2,7 +2,7 @@
 
 Activist digital art created in 2019 with Processing against President Jair M. Bolsonaro and his former Education Minister Abraham Weintraub allegations about Federal Institutions productivity. This work was made for a final exam in a discipline from the Federal University of Bahia. 
 
-[Article of this work (in Portuguese):](https://docs.google.com/document/d/1L3yp8uPwEdhAxvVb9UPsWx4I9a6BeJUc73PBhAYt3-E)
+[Article of this work (in Portuguese)](https://docs.google.com/document/d/1L3yp8uPwEdhAxvVb9UPsWx4I9a6BeJUc73PBhAYt3-E)
 
 ## How to Run it
 

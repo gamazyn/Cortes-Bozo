@@ -9,9 +9,9 @@ You will need a Kinect (any version, but I recommend the first one) with properl
 Open the project in the Processing editor and press "Run".
 
 Libraries used:
-[Minin](http://code.compartmental.net/minim/)
-[Open Kinect for Processing](https://shiffman.net/p5/kinect/)
-[Video](https://processing.org/reference/libraries/video/index.html)
+* [Minin](http://code.compartmental.net/minim/)
+* [Open Kinect for Processing](https://shiffman.net/p5/kinect/)
+* [Video](https://processing.org/reference/libraries/video/index.html)
 
 
 ## Context of the Work of Art

@@ -8,6 +8,12 @@ You will need a Kinect (any version, but I recommend the first one) with properl
 
 Open the project in the Processing editor and press "Run".
 
+Libraries used:
+[Minin](http://code.compartmental.net/minim/)
+[Open Kinect for Processing](https://shiffman.net/p5/kinect/)
+[Video](https://processing.org/reference/libraries/video/index.html)
+
+
 ## Context of the Work of Art
 
 "Universities that, instead of seeking to improve academic performance, making a mess, get reduced amounts". The statement by former education minister Abraham Weintraub, to the newspaper O Estado de São Paulo, on April 30, 2019 caused an uproar in the academic world. Out of ignorance or bad faith, the minister accused Federal Universities of promoting “mess and ridiculous event” with public funds and, without mentioning indicators, of presenting “results below what was explored”.
